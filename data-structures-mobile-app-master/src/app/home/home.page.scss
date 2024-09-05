@@ -1,0 +1,32 @@
+ion-content {
+  --background: #f5b7a3
+}
+
+ion-card {
+  --background: #f7845e;
+  --color: #000;
+}
+
+ion-card-header {
+  padding: .5rem .5rem .25rem;
+}
+
+ion-card-content {
+  display: flex;
+  justify-content: center;
+}
+
+ion-card-title {
+  --color: #000;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+ion-button {
+  font-weight: bolder;
+  --border-radius: .65rem;
+  --padding: .8rem;
+  --background: #f7c65e;
+  --color: #000;
+}
